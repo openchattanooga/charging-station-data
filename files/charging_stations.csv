@@ -1,1 +1,17 @@
-
+@type,@lat,@lon,access,addr:housenumber,addr:street,amenity,brand,brand:wikidata,brand:wikipedia,capacity,capacity:trailer,fee,name,network,note,opening_hours,operator,operator:wikidata,operator:wikipedia,parking:fee,short_name,socket:chademo,socket:tesla_supercharger,socket:tesla_supercharger:output,socket:type1,socket:type1_cable,socket:type1_cable:current,socket:type1_cable:output,socket:type1_cable:voltage,socket:type1_combo,socket:type1:output,website
+node,35.0370215,-85.3070862,,,,charging_station,,,,2,,,eVgo,,,24/7,NRG Energy,Q6955139,,,,1,,,,,,,,1,,
+node,35.0379775,-85.1957808,,,,charging_station,ChargePoint,Q5176149,,6,,,ChargePoint,,,,,,,,,,,,,,,,,,,
+node,35.0386246,-85.1959302,,,,charging_station,Tesla Supercharger,Q17089620,,6,,,Tesla Supercharger,,,,Tesla/CHA Airport,,,,,,,,,,,,,,,https://www.tesla.com/findus/location/supercharger/chattanoogasupercharger
+node,35.0440061,-85.3100746,,,,charging_station,ChargePoint,Q5176149,,2,,no,ChargePoint,,GreenCommuter,,ChargePoint,Q5176149,en:ChargePoint,,,,,,,,,,,,,
+node,35.0357044,-85.1580696,,,,charging_station,,,,2,,,,ChargePoint,,,,,,,,,,,,2,30,6.6 kW,208,,,
+node,35.1019867,-85.2352957,,,,charging_station,,,,2,,,,ChargePoint,,,,,,,,,,,,2,30,,240,,,
+node,35.0438733,-85.2804353,,,,charging_station,,,,2,,,,ChargePoint,,,,,,,,,,,,2,30,,240,,,
+node,35.0612392,-85.3059881,yes,,,charging_station,ChargePoint,Q5176149,,6,,yes,ChargePoint,,,,ChargePoint,Q5176149,,,,,,,,,,,,,,
+node,35.0364079,-85.1598609,yes,2100,Hamilton Place Boulevard,charging_station,"Tesla, Inc.",Q478214,en:Tesla Supercharger,12,1,yes,"Chattanooga, TN - Hamilton Place Boulevard Supercharger",,,24/7,"Tesla, Inc.",Q478214,"en:Tesla, Inc.",no,Tesla,,12,250,,,,,,,,https://www.tesla.com/findus/location/supercharger/ChattanoogaTNSupercharger
+node,35.0555238,-85.3153384,,,,charging_station,,,,,,,Electrify America,,,,,,,,,,,,,,,,,,,
+node,35.0367255,-85.3181901,,,,charging_station,,,,,,,Electrify America,,,,,,,,,,,,,,,,,,,
+node,35.0481110,-85.3008920,,,,charging_station,,,,,,yes,CARTA/548 VINE ST #1,,,,ChargePoint,,,,,,,,2,,,,,,7.2,
+node,35.0480797,-85.3007987,,,,charging_station,,,,,,yes,CARTA/548 VINE ST #2,,,,ChargePoint,,,,,,,,2,,,,,,7.3,
+node,35.0366330,-85.3181814,,,,charging_station,,,,,,,Electrify America Charger,,,,,,,,,,,,,,,,,,,
+node,35.0057656,-85.3119211,,,,charging_station,ChargePoint,,,,,yes,,ChargePoint,,,CARTA,,,,,,,,2,,,,,,7.2,
+node,35.0633022,-85.3149334,,,,charging_station,,,,,,,,,,,,,,,,,,,,,,,,,,
